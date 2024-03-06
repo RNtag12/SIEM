@@ -1,0 +1,7 @@
+# Download and installation (Wazuh)
+  
+Install Wazuh 4.7
+curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
+
+Wazuh passwords and API users can be found in the wazuh-passwords.txt using this command
+sudo tar -O -xvf wazuh-install-files.tar wazuh-install-files/wazuh-passwords.txt
