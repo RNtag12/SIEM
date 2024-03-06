@@ -10,11 +10,13 @@ Installing and deploying an agent to a computer can be divided into the followin
                  
    - <b> Download and Install Wazuh<br />
    - <b>Install sysmon to the target computer <br/>
-   - <b>Deploy agent to the computer 
+   - <b>Deploy agent to the computer <br/>
+   - <b>Perform a simple vulnerability scan <br/>
+   
 
 
 <h2>Summary of the Project </h2>
-This project serves as a practical exploration of some of the AWS-IAM. we first assigned each user to their respective groups then we checked their access to resources to ensure that they had the right permissions.
+This project demonstrates how Wazuh can be easily installed and used to collect and analyze security events in a computing system.
 
   
 
