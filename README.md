@@ -16,6 +16,7 @@ Installing and deploying an agent to a computer can be divided into the followin
 
 
 <h2>Summary of the Project </h2>
+
 This project demonstrates how Wazuh can be easily installed and used to collect and analyze security events in a computing system.
 
   
