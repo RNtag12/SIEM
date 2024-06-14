@@ -1,4 +1,4 @@
-# Installation and deployment of SIEM (Wazuh)
+# Installation and testing of Wazuh
 
 <h2> Project Description</h2>
 Wazuh is an open-source Security Information and Event management and is used to collect, collerate and analyze security events in a network. This project outlines the process of installing Wazuh SIEM and deploying an agent to a computer . 
